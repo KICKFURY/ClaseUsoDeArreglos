@@ -1,0 +1,10 @@
+C:\Users\Jose Luis\source\repos\ClaseUsoDeArreglos\ClaseUsoDeArreglos\bin\Debug\ClaseUsoDeArreglos.exe.config
+C:\Users\Jose Luis\source\repos\ClaseUsoDeArreglos\ClaseUsoDeArreglos\bin\Debug\ClaseUsoDeArreglos.exe
+C:\Users\Jose Luis\source\repos\ClaseUsoDeArreglos\ClaseUsoDeArreglos\bin\Debug\ClaseUsoDeArreglos.pdb
+C:\Users\Jose Luis\source\repos\ClaseUsoDeArreglos\ClaseUsoDeArreglos\obj\Debug\ClaseUsoDeArreglos.csproj.AssemblyReference.cache
+C:\Users\Jose Luis\source\repos\ClaseUsoDeArreglos\ClaseUsoDeArreglos\obj\Debug\ClaseUsoDeArreglos.FrmMain.resources
+C:\Users\Jose Luis\source\repos\ClaseUsoDeArreglos\ClaseUsoDeArreglos\obj\Debug\ClaseUsoDeArreglos.Properties.Resources.resources
+C:\Users\Jose Luis\source\repos\ClaseUsoDeArreglos\ClaseUsoDeArreglos\obj\Debug\ClaseUsoDeArreglos.csproj.GenerateResource.cache
+C:\Users\Jose Luis\source\repos\ClaseUsoDeArreglos\ClaseUsoDeArreglos\obj\Debug\ClaseUsoDeArreglos.csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis\source\repos\ClaseUsoDeArreglos\ClaseUsoDeArreglos\obj\Debug\ClaseUsoDeArreglos.exe
+C:\Users\Jose Luis\source\repos\ClaseUsoDeArreglos\ClaseUsoDeArreglos\obj\Debug\ClaseUsoDeArreglos.pdb
